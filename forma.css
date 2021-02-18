@@ -1,0 +1,46 @@
+body{
+    color: white;
+
+}
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+#konyvjelzo {
+    text-align: center;
+    font-size: 25px;
+    
+}
+h2{
+    text-align: center;
+    font-size: 60px;
+}
+#milka{
+    float: left;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+#milkaleiras{
+    font-size: 40px;
+}
+#milkaar{
+    font-size: 50px;
+    text-align: left;
+}
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h3{
+    text-align: center;
+    font-size: 60px;
+}
+
